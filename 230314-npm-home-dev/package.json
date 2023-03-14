@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "pokemon": "^2.3.4"
+  },
+  "name": "pokemon",
+  "version": "1.0.0",
+  "description": "npm dev",
+  "main": "add.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "1"
+  },
+  "keywords": [
+    "poke"
+  ],
+  "author": "heeeun",
+  "license": "ISC"
+}
